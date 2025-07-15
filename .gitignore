@@ -1,0 +1,6 @@
+# Ignore files
+DataAnalysis/
+
+*
+!Value_correction.py
+!.gitignore
